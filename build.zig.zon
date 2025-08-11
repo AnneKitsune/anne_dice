@@ -1,0 +1,14 @@
+.{
+    .name = .anne_dice,
+    .version = "1.0.0",
+    .minimum_zig_version = "0.15.0-dev.1380+e98aeeb73",
+    .fingerprint = 0xd1c9ffc3dc10038a,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
